@@ -1,0 +1,27 @@
+user: adminuser
+mail: admin@example.com
+pass: Password@123
+
+user: testuser
+mail: test0@mytest.com
+pass: 1234
+
+user: testuser2
+mail: test@mytest.com
+pass: 1234
+
+user: testuser3
+mail: test3@mytest.com
+pass: 1234
+
+user: testuser4
+mail: test4@mytest.com
+pass: 1234
+
+user: testuser5
+mail: test5@mytest.com
+pass: 1234
+
+user: testuser6
+mail: test6@mytest.com
+pass: 1234
